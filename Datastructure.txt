@@ -1,0 +1,38 @@
+Propounding First Artificial Intelligence Approach for Predicting Robbery Behavior Potential in an Indoor Security Camera
+
+Surveillance videos, low resolution, RBP prediction, deep learning method, fuzzy inference
+
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:09.June.2023
+
+
+Propounding_First_Artificial_Intelligence_Approach
+
+
+propounding_first_artificial_intelligence_approach
+
+Convolution Neural Network
+
+robbery_behavior_detection
+
+Robbery Mugging --0
+
+Robbery Purse Snatch --1
+
+
+
+Fid	
+event_unique_id	
+occurrencedate	
+reporteddate	
+location_type	
+premises_type	
+Neighbourhood	
+Longitude	
+Latitude
+Prediction
+
+
+
+
